@@ -1284,6 +1284,8 @@ describe('middleware chain', () => {
 
 ## For Framework Authors: Building Middleware Systems
 
+> **Implementation Note**: The patterns and code examples below represent one proven approach to building middleware systems. Middleware patterns vary—Express uses a callback-based approach, Koa uses async/await with context, and H3 uses a minimal event-based system. The direction shown here follows the modern async/await pattern with composability. Adapt based on your framework's async model, error handling strategy, and whether you need framework-specific integrations.
+
 ### Implementing a Middleware Pipeline
 
 ```javascript
