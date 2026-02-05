@@ -6,6 +6,7 @@ A collection of framework-agnostic AI skills for understanding modern web develo
 
 These skills help AI assistants understand:
 - How web applications are architected (SPA, MPA, hybrid)
+- Build pipelines, bundling, code splitting, and optimization
 - Different rendering strategies and when to use each
 - SEO implications of architectural decisions
 - How meta-frameworks solve common problems
@@ -25,27 +26,30 @@ Rather than framework-specific instructions, these skills provide the **conceptu
 | [routing-patterns](./routing-patterns/SKILL.md) | Client vs server routing, file-based routing |
 | [state-management-patterns](./state-management-patterns/SKILL.md) | Client state, server state, URL state, caching |
 | [data-fetching-patterns](./data-fetching-patterns/SKILL.md) | Fetch patterns, caching, loading states |
+| [build-pipelines-bundling](./build-pipelines-bundling/SKILL.md) | Bundling, code splitting, tree shaking, build optimization |
 
 ## Learning Path
 
 For best understanding, read the skills in this order:
 
 ```
-1. web-app-architectures     (Foundation: SPA vs MPA)
+1. web-app-architectures       (Foundation: SPA vs MPA)
         ↓
-2. rendering-patterns        (When/where HTML is generated)
+2. build-pipelines-bundling    (How code is transformed and bundled)
         ↓
-3. hydration-patterns        (How static becomes interactive)
+3. rendering-patterns          (When/where HTML is generated)
         ↓
-4. routing-patterns          (How navigation works)
+4. hydration-patterns          (How static becomes interactive)
         ↓
-5. data-fetching-patterns    (How to load data)
+5. routing-patterns            (How navigation works)
         ↓
-6. state-management-patterns (Where to store data)
+6. data-fetching-patterns      (How to load data)
         ↓
-7. seo-fundamentals          (Search engine optimization)
+7. state-management-patterns   (Where to store data)
         ↓
-8. meta-frameworks-overview  (How frameworks implement all of the above)
+8. seo-fundamentals            (Search engine optimization)
+        ↓
+9. meta-frameworks-overview    (How frameworks implement all of the above)
 ```
 
 ## Installation
